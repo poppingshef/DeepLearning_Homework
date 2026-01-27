@@ -23,7 +23,8 @@ This repository contains my notes and hands-on implementations of various basic 
 
 ## ✅ How to use
 Open the `.ipynb` files with Jupyter and run the cells.
-
+> Note: Not all notebooks are fully runnable out of the box.  
+> Some datasets are not included in this repository (due to size or access restrictions), so you may need to download them separately or update dataset paths.
 ---
 
 ## 📝 Notes
